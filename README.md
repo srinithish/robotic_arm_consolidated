@@ -1,11 +1,4 @@
-# Smarttable_GE
+# Robotic Arm
 
-To see localizer demo:
 
-```
-python localize.py 
-```
-*there is a 5 second sleep per image in the above demo  
-
-# robotic_arm_consolidated
-# robotic_arm_consolidated
+Smart robotic arm equipped with computer vision to automatically pick the object you ask (through voice command) for.
